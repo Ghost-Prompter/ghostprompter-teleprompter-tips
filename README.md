@@ -21,5 +21,5 @@ Traditional setups require bulky external hardware or distracting secondary scre
 ## 🔗 Official GhostPrompter Resources
 
 * 🌐 [Visit the Official Website](https://ghost-prompter.com/)
-* 💰 [Explore Free Trial & Pricing Plans](https://ghost-prompter.com/pricing/)
+* 💰 [Explore Lifetime Deal & Pricing Plans](https://ghost-prompter.com/pricing/)
 * 🔬 [Follow GhostPrompter on Flipboard](https://flipboard.com/@ghostprompter/best-laptop-teleprompter-tools-tips-rorblr6ly) for live presentation field logs, software speed diagnostics, and raw video retention data.
