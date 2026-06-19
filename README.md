@@ -29,3 +29,7 @@ Traditional setups require bulky external hardware or distracting secondary scre
 * 🌐 **[Official Website](https://ghost-prompter.com/)** — Learn more about features and system compatibility.
 * 💰 **[Get Lifetime Deal](https://ghostprompter.lemonsqueezy.com/checkout/buy/936e4233-cc14-48cc-8670-0d9599cddff4)** — Secure your license with a one-time payment.
 * 📌 **[Follow on Pinterest](https://www.pinterest.com/ghostprompter/)** — Explore video workflow guides and visual studio setups.
+* # 🚀 GhostPrompter is live on Product Hunt today!
+We are launching GhostPrompter on Product Hunt right now. Check out our launch page, drop a review, and join the community discussion:
+
+👉 **[Join the conversation on Product Hunt!](https://www.producthunt.com/products/ghostprompter?launch=ghostprompter)**
